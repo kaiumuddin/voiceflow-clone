@@ -1,0 +1,40 @@
+/* Coolors Exported Palette - https://coolors.co/fefefe-0c131d-bcbcbd-1d6bd7-78797a-022886-934fe4-6cadfe-97521e-18d760 */
+
+- Tailwind
+
+{ 'white': { DEFAULT: '#fefefe', 100: '#333333', 200: '#666666', 300: '#999999', 400: '#cccccc', 500: '#fefefe', 600: '#ffffff', 700: '#ffffff', 800: '#ffffff', 900: '#ffffff' }, 'rich_black': { DEFAULT: '#0c131d', 100: '#020406', 200: '#05080c', 300: '#070b11', 400: '#0a0f17', 500: '#0c131d', 600: '#283f5f', 700: '#436aa1', 800: '#7b9bc8', 900: '#bdcde3' }, 'silver': { DEFAULT: '#bcbcbd', 100: '#252526', 200: '#4b4b4c', 300: '#707072', 400: '#969698', 500: '#bcbcbd', 600: '#c9c9ca', 700: '#d7d7d8', 800: '#e4e4e5', 900: '#f2f2f2' }, 'celtic_blue': { DEFAULT: '#1d6bd7', 100: '#06152b', 200: '#0c2b56', 300: '#124081', 400: '#1856ac', 500: '#1d6bd7', 600: '#4487e6', 700: '#73a5ec', 800: '#a2c3f2', 900: '#d0e1f9' }, 'gray': { DEFAULT: '#78797a', 100: '#181818', 200: '#2f3030', 300: '#474849', 400: '#5f6061', 500: '#78797a', 600: '#929394', 700: '#adaeaf', 800: '#c8c9c9', 900: '#e4e4e4' }, 'resolution_blue': { DEFAULT: '#022886', 100: '#00081b', 200: '#011036', 300: '#011851', 400: '#02206d', 500: '#022886', 600: '#033dd1', 700: '#2360fc', 800: '#6c95fd', 900: '#b6cafe' }, 'veronica': { DEFAULT: '#934fe4', 100: '#1c0835', 200: '#39116a', 300: '#55199f', 400: '#7121d4', 500: '#934fe4', 600: '#a772e9', 700: '#bd95ee', 800: '#d3b8f4', 900: '#e9dcf9' }, 'ruddy_blue': { DEFAULT: '#6cadfe', 100: '#002148', 200: '#014190', 300: '#0162d8', 400: '#2486fe', 500: '#6cadfe', 600: '#89befe', 700: '#a7ceff', 800: '#c4deff', 900: '#e2efff' }, 'brown': { DEFAULT: '#97521e', 100: '#1e1006', 200: '#3c210c', 300: '#593112', 400: '#774118', 500: '#97521e', 600: '#cc6f28', 700: '#de9359', 800: '#e9b790', 900: '#f4dbc8' }, 'malachite': { DEFAULT: '#18d760', 100: '#052b13', 200: '#0a5627', 300: '#0e813a', 400: '#13ad4e', 500: '#18d760', 600: '#3ce97f', 700: '#6def9f', 800: '#9ef4bf', 900: '#cefadf' } }
+
+- CSV
+
+fefefe,0c131d,bcbcbd,1d6bd7,78797a,022886,934fe4,6cadfe,97521e,18d760
+
+- With #
+
+#fefefe, #0c131d, #bcbcbd, #1d6bd7, #78797a, #022886, #934fe4, #6cadfe, #97521e, #18d760
+
+- Array
+
+["fefefe","0c131d","bcbcbd","1d6bd7","78797a","022886","934fe4","6cadfe","97521e","18d760"]
+
+- Object
+
+{"White":"fefefe","Rich black":"0c131d","Silver":"bcbcbd","Celtic Blue":"1d6bd7","Gray":"78797a","Resolution Blue":"022886","Veronica":"934fe4","Ruddy Blue":"6cadfe","Brown":"97521e","Malachite":"18d760"}
+
+- Extended Array
+
+[{"name":"White","hex":"fefefe","rgb":[254,254,254],"cmyk":[0,0,0,0],"hsb":[0,0,100],"hsl":[0,0,100],"lab":[100,0,0]},{"name":"Rich black","hex":"0c131d","rgb":[12,19,29],"cmyk":[59,34,0,89],"hsb":[215,59,11],"hsl":[215,41,8],"lab":[6,0,-8]},{"name":"Silver","hex":"bcbcbd","rgb":[188,188,189],"cmyk":[1,1,0,26],"hsb":[240,1,74],"hsl":[240,1,74],"lab":[76,0,-1]},{"name":"Celtic Blue","hex":"1d6bd7","rgb":[29,107,215],"cmyk":[87,50,0,16],"hsb":[215,87,84],"hsl":[215,76,48],"lab":[47,18,-62]},{"name":"Gray","hex":"78797a","rgb":[120,121,122],"cmyk":[2,1,0,52],"hsb":[210,2,48],"hsl":[210,1,47],"lab":[51,0,-1]},{"name":"Resolution Blue","hex":"022886","rgb":[2,40,134],"cmyk":[99,70,0,47],"hsb":[223,99,53],"hsl":[223,97,27],"lab":[21,29,-55]},{"name":"Veronica","hex":"934fe4","rgb":[147,79,228],"cmyk":[36,65,0,11],"hsb":[267,65,89],"hsl":[267,73,60],"lab":[49,57,-65]},{"name":"Ruddy Blue","hex":"6cadfe","rgb":[108,173,254],"cmyk":[57,32,0,0],"hsb":[213,57,100],"hsl":[213,99,71],"lab":[70,2,-46]},{"name":"Brown","hex":"97521e","rgb":[151,82,30],"cmyk":[0,46,80,41],"hsb":[26,80,59],"hsl":[26,67,35],"lab":[42,25,41]},{"name":"Malachite","hex":"18d760","rgb":[24,215,96],"cmyk":[89,0,55,16],"hsb":[143,89,84],"hsl":[143,80,47],"lab":[76,-68,46]}]
+
+- XML
+
+<palette>
+  <color name="White" hex="fefefe" r="254" g="254" b="254" />
+  <color name="Rich black" hex="0c131d" r="12" g="19" b="29" />
+  <color name="Silver" hex="bcbcbd" r="188" g="188" b="189" />
+  <color name="Celtic Blue" hex="1d6bd7" r="29" g="107" b="215" />
+  <color name="Gray" hex="78797a" r="120" g="121" b="122" />
+  <color name="Resolution Blue" hex="022886" r="2" g="40" b="134" />
+  <color name="Veronica" hex="934fe4" r="147" g="79" b="228" />
+  <color name="Ruddy Blue" hex="6cadfe" r="108" g="173" b="254" />
+  <color name="Brown" hex="97521e" r="151" g="82" b="30" />
+  <color name="Malachite" hex="18d760" r="24" g="215" b="96" />
+</palette>
